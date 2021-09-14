@@ -5,7 +5,8 @@ pythonのtkinter ＆ ffmpegで.movから.mp4に変換する
 
 # フォルダ構成
 
-./mov2mp4.py \n
+./mov2mp4.py
+
 ./dist/mov2mp4.exe
 
 
