@@ -7,7 +7,7 @@ pythonのtkinter ＆ ffmpegで.movから.mp4に変換する
 
 mov2mp4.py
 dist
- └ mov2mp4.exe
+└ mov2mp4.exe
 
 
 # 使い方
